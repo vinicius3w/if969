@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="if969.vcg.cin.ufpe.br.grafo.Position"/>
+<fullyQualifiedTypeName name="if969.vcg.cin.ufpe.br.grafo.NodePositionList"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
+<fullyQualifiedTypeName name="if969.vcg.cin.ufpe.br.arvore.ArvoreBinaria"/>
+<fullyQualifiedTypeName name="if969.vcg.cin.ufpe.br.arvore.NodoArvoreBinaria"/>
+<fullyQualifiedTypeName name="if969.vcg.cin.ufpe.br.grafo.BoundaryViolationException"/>
+<fullyQualifiedTypeName name="if969.vcg.cin.ufpe.br.ed.NodoDuplo"/>
+<fullyQualifiedTypeName name="if969.vcg.cin.ufpe.br.ed.lista.Fila"/>
+<fullyQualifiedTypeName name="if969.vcg.cin.ufpe.br.ed.lista.ListaDupEncOrdenada"/>
+<fullyQualifiedTypeName name="if969.vcg.cin.ufpe.br.ed.lista.ListaSimpEncadeada"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

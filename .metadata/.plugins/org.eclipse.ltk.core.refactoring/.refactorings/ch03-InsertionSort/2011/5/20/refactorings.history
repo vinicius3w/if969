@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;InsertionSortTest.java&apos; to &apos;if969/src&apos;&#x0A;- Original project: &apos;ch03-InsertionSort&apos;&#x0A;- Destination element: &apos;if969/src&apos;&#x0A;- Original element: &apos;br.ufpe.cin.if969.vcg.ch03.InsertionSortTest.java&apos;" description="Copy compilation unit" destination="=if969/src" element1="/src&lt;br.ufpe.cin.if969.vcg.ch03{InsertionSortTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1304986916354" units="1" version="1.0"/>
+</session>
